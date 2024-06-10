@@ -14,6 +14,6 @@ function App() {
     <TodoList todos={todos} />
   </div>
   )
-}
+} 
 
 export default App;
